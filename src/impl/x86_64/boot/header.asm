@@ -1,4 +1,3 @@
-@MultiBoot2 Spec
 section .multiboot2_header
 
 header_start:

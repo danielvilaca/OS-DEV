@@ -1,4 +1,4 @@
-# <h1 align="center"> Operating System Development x86-64 </h1>
+# <h1 align="center"> Operating System Development Training on x86-64 </h1>
 <h3 align="center">x86 Boot, Switch to 64-bit long mode, Runs 64-bit x86-64 Kernel</h3>
 
 <br>
